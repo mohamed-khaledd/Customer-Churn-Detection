@@ -47,4 +47,4 @@ cd Customer-Churn-Detection
 ```bash
 jupyter notebook
 ```
-3. Open customer_churn_detection.ipynb and run all cells. 
+3. Open Customer_Churn_Detection.ipynb and run all cells. 
