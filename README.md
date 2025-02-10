@@ -35,4 +35,16 @@ Before running the notebook, install the required dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+```
 
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/mohamed-khaledd/Customer-Churn-Detection.git
+cd Customer-Churn-Detection
+```
+2. Start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+3. Open customer_churn_detection.ipynb and run all cells. 
