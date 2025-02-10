@@ -30,6 +30,7 @@ The dataset used is **Churn_Modelling.csv**, which includes:
 4. **Results & Insights**
    - Comparing model performance and choosing the best model
 
+
 ## Repository Structure
 ```bash
 📂 Customer-Churn-Detection
@@ -38,12 +39,14 @@ The dataset used is **Churn_Modelling.csv**, which includes:
  ├── README.md                # Project documentation
 ```
 
+
 ## Requirements
 Before running the notebook, install the required dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 ```
+
 
 ## How to Run
 1. Clone the repository:
