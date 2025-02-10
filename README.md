@@ -33,8 +33,8 @@ The dataset used is **Churn_Modelling.csv**, which includes:
 ## Repository Structure
 ```bash
 📂 Customer-Churn-Detection
- ├── 📁 data                  # Dataset
- ├── customer_churn_detection.ipynb  # Main notebook
+ ├── 📁 Data                  # Dataset
+ ├── Customer_Churn_Detection.ipynb  # Main notebook
  ├── README.md                # Project documentation
 ```
 
