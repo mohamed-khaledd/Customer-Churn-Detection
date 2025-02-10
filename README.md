@@ -30,6 +30,14 @@ The dataset used is **Churn_Modelling.csv**, which includes:
 4. **Results & Insights**
    - Comparing model performance and choosing the best model
 
+## Repository Structure
+```bash
+📂 Customer-Churn-Detection
+ ├── 📁 data                  # Dataset
+ ├── customer_churn_detection.ipynb  # Main notebook
+ ├── README.md                # Project documentation
+```
+
 ## Requirements
 Before running the notebook, install the required dependencies:
 
@@ -47,4 +55,4 @@ cd Customer-Churn-Detection
 ```bash
 jupyter notebook
 ```
-3. Open Customer_Churn_Detection.ipynb and run all cells. 
+3. Open Customer_Churn_Detection.ipynb and run all cells.
